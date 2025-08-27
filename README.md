@@ -11,21 +11,31 @@ I designed an interactive and user-friendly Power BI dashboard that delivers ric
 This dashboard is built to support data-driven decision-making by presenting complex information in a clear and accessible way.
 
 
-## 📌QUESTIONS SOLVED
-- **QUESTION 1**  
-     - Find customers who purchased the same vehicle model more than once in the same year.
-- **QUESTION 2**
-     -  Identify vehicles not serviced in the last 12 months.
-- **QUESTION 3**
-     - Get top 3 dealers per region based on profit (revenue - cost) for Quarter 1 2025.
-- **QUESTION 4**
-     - Calculate the month-over-month % growth in service appointments in 2024.
-- **QUESTION 5**
-     - Flag older records where customer email and phone are duplicated.
-- **QUESTION 6**
-     - Find customers who bought both Ford Mustang and Ford Figo.
-- **QUESTION 7**
-     -  Get the latest service record for each vehicle along with cost. 
+## 📌 DATASET
+The dataset comprises of 3,900 records representing individual transactions and 19 Coluumns namely:
+- **Customer ID** - Unique identifier for each customer. 
+- **Age** - Age of the customer.
+- **Gender** -Gender of the customer (Male/Female).
+- **Item Purchased** - Name of the item bought.
+- **Category** - Category the item belongs to (e.g., Clothing, Footwear).
+- **Purchase Amount** - Value of the transaction.
+- **Location** - Geographical location where purchase was made.
+- **Size** - Size of the item purchased.
+- **Color** - Color of the item purchased.
+- **Season** - Season in which the purchase was made.
+- **Review Rating** - Customer's satisfaction rating for the product.
+- **Subscription Status** - Whether the customer has an active subscription (Yes/No).
+- **Shipping Type** - Type of shipping selected (e.g., Express, Free Shipping).
+- **Discount Applied** - Indicates if a discount was applied to the purchase (Yes/No). 
+- **Promo Code Used** - Indicates if a promo code was used (Yes/No).
+- **Previous Purchases** -  Number of prior transactions by the customer before the current one.
+- **Payment Method** - Customer's preferred payment method (e.g., Credit Card, PayPal, Venmo, etc.).
+- **Frequency of Purchases** - How often the customer typically makes purchases (e.g., Weekly, Monthly).
+- **processdate** - Timestamp of when the transaction occurred (added for timebased analysis)
+
+## 🛠 Tools & Technologies
+- **Microsoft SQL Server (MSSQL)** – Data exploration and transformation
+- **Power BI** – Data modeling, DAX calculations, and interactive dashboard design
 
 ## 📁 HOW TO NAVIGATE THE FILES
 - FORD SQL INTERVIEW QUESTIONS.pdf
