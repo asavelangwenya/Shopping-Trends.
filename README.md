@@ -3,9 +3,7 @@
 I designed an interactive and user-friendly Power BI dashboard that delivers rich insights into:
 
 **Customer Segmentation** – understanding different customer groups and their behaviors.
-
 **Product Performance** – analyzing product trends, top performers, underperformers and fluctuations of product turnover rate  by season.
-
 **Revenue Analysis** – tracking revenue drivers, growth trends, and areas of improvement.
 
 This dashboard is built to support data-driven decision-making by presenting complex information in a clear and accessible way.
