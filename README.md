@@ -38,7 +38,8 @@ The dataset comprises of 3,900 records representing individual transactions and 
 - **Power BI** – DAX calculations, and interactive dashboard design.
 
 ## 📸 DASHBOARD PREVIEW
-![Dashboard Screenshot](images/homepage.png)
+ ### Homepage
+![Dashboard Screenshot](https://github.com/asavelangwenya/Shopping-Trends./blob/main/Images/Homepage.png)
 
 ## 📁 HOW TO NAVIGATE THE FILES
 - FORD SQL INTERVIEW QUESTIONS.pdf
