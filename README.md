@@ -43,9 +43,14 @@ The dataset comprises of 3,900 records representing individual transactions and 
 
  ### Customer Segmentation
  ![Dashboard](https://github.com/asavelangwenya/Shopping-Trends./blob/main/Images/Customer%20Segmentation.png)
+ 
  ### Product Performance
  ![Dashboard]( https://github.com/asavelangwenya/Shopping-Trends./blob/main/Images/Product%20Performance.png)
 
+ ### Revenue
+ ![Dashboard]( https://github.com/asavelangwenya/Shopping-Trends./blob/main/Images/Revenue.png)
+
+  
 
 
 ## 📁 HOW TO NAVIGATE THE FILES
