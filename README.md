@@ -33,9 +33,12 @@ The dataset comprises of 3,900 records representing individual transactions and 
 - **Frequency of Purchases** - How often the customer typically makes purchases (e.g., Weekly, Monthly).
 - **processdate** - Timestamp of when the transaction occurred (added for timebased analysis)
 
-## 🛠 Tools & Technologies
-- **Microsoft SQL Server (MSSQL)** – Data exploration and transformation
-- **Power BI** – Data modeling, DAX calculations, and interactive dashboard design
+## 🛠 TOOLS AND TECHNOLOGIES
+- **Microsoft SQL Server (MSSQL)** – Data exploration and transformation.
+- **Power BI** – DAX calculations, and interactive dashboard design.
+
+## 📸 DASHBOARD PREVIEW
+![Dashboard Screenshot](images/homepage.png)
 
 ## 📁 HOW TO NAVIGATE THE FILES
 - FORD SQL INTERVIEW QUESTIONS.pdf
