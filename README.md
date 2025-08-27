@@ -1,15 +1,15 @@
 # 🚘 PROJECT OVERVIEW
 
-The objective of this project is to design an interactive and user-friendly Power BI dashboard that delivers rich insights into:
+I designed an interactive and user-friendly Power BI dashboard that delivers rich insights into:
 
 **Customer Segmentation** – understanding different customer groups and their behaviors.
 
-**Product Performance** – analyzing product trends, top performers, and underperformers.
+**Product Performance** – analyzing product trends, top performers, underperformers and fluctuations of product turnover rate  by season.
 
 **Revenue Analysis** – tracking revenue drivers, growth trends, and areas of improvement.
 
 This dashboard is built to support data-driven decision-making by presenting complex information in a clear and accessible way.
-One example involves calculating month-over-month growth in service appointments, where I used a CTE combined with the LAG() function to compare monthly totals — a useful technique in trend analysis and reporting.
+
 
 ## 📌QUESTIONS SOLVED
 - **QUESTION 1**  
