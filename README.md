@@ -48,11 +48,11 @@ The dataset comprises of 3,900 records representing individual transactions and 
  ### Revenue
  ![Dashboard]( https://github.com/asavelangwenya/Shopping-Trends./blob/main/Images/Revenue.png)
 
-  
-
-
 ## 📁 HOW TO NAVIGATE THE FILES
-- FORD SQL INTERVIEW QUESTIONS.pdf
-     - Contains the table structure, and all 7 business questions.
-- SQL Code.sql
-     - This is the sql file that has all the queries that solve the questions above.
+- Dashboard Folder
+     - Has the full complete interactive dashboard.
+- Images Folder
+     - This folder has the screenshots of the dashboard.
+- SQL Code Folder
+     - This is the sql file that has all the queries that I prepared.
+  
